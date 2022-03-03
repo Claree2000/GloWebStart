@@ -1,0 +1,96 @@
+/* span {
+    display: inline;
+    border: 3px solid red;
+}
+
+p {
+    box-sizing: border-box;
+    max-width: 200px;
+    height: 30px;
+    display: block;
+    border: 3px solid red;
+    padding: 10px 20px 15px;
+    margin-bottom: 50px;
+}
+
+div {
+    display: block;
+}
+
+.block {
+    border: 3px solid red;
+    padding: 10px;
+} */
+
+.block-main {
+    box-sizing: border-box;
+    max-width: 302px;
+    max-height: 462px;
+    border: 1px solid gray;
+}
+
+.sum {
+    box-sizing: border-box;
+    padding-left: 56px;
+    padding-bottom: 49px;
+    margin-right: 9px;
+    font-size: 48px;
+}
+
+.rub {
+    box-sizing: border-box;
+    padding-right: 73px;
+    font-size: 18px;
+}
+
+.Name {
+    box-sizing: border-box;
+    padding-left: 77px;
+    padding-right: 90px;
+    padding-top: 57px;
+    margin-bottom: 35px;
+}
+
+.block2 {
+    box-sizing: border-box;
+    max-width: 229px;
+    max-height: 115px;
+    padding-left: 40px;
+    margin-top: 45px;
+}
+
+.zblock {
+    box-sizing: border-box;
+    max-width: 200px;
+    max-height: 55px;
+    border: 1px solid gray;
+    padding-left: 29px;
+    padding-top: 21px;
+    padding-bottom: 22px;
+    margin-left: 51px;
+    margin-right: 51px;
+    margin-top: 46px;
+    margin-bottom: 49px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.text1 {
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.text2 {
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.text3 {
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.text4 {
+    text-align: center;
+}
